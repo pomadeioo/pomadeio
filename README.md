@@ -1,0 +1,2 @@
+# pomadeio
+csit seminar
